@@ -1,0 +1,3 @@
+interface EnchufeAmericano {
+    void conectarEnchufePlano();
+}
